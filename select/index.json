@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アンダーヒロイン  / 歌ってみた (Cover) 【夜絆ニウ / NeoPorte (ネオポルテ) 】",
+  "base_artist": "夜絆ニウ / yozuna niu",
+  "createdAt": "2025-12-01T15:39:56.776746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダーヒロイン",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_アンダーヒロイン_ツユ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダーヒロイン",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_アンダーヒロイン_ツユ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アンダーヒロイン",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_02_アンダーヒロイン_ツユ.txt"
+    }
+  ]
+}
